@@ -2,7 +2,7 @@
     "name": "versify-backend",
     "version": "1.0.0",
     "main": "./build/index.js",
-    "description": "Starter kit for node-express-ts",
+    "description": "WebSocket Server for Versify Chat Application Backend",
     "author": "Vikrant Shrestha",
     "scripts": {
         "build": "tsc",
