@@ -1,9 +1,9 @@
 {
-    "name": "node-express-ts",
+    "name": "versify-backend",
     "version": "1.0.0",
     "main": "./build/index.js",
     "description": "Starter kit for node-express-ts",
-    "author": "Abhay Kumar <abhay.kumar@qed42.com>",
+    "author": "Vikrant Shrestha",
     "scripts": {
         "build": "tsc",
         "server": "tsc && npm run build && nodemon ./build/index.js",
